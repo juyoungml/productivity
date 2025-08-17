@@ -1,5 +1,7 @@
 # productivity
-Archive of productivity hacks for my use
+Archive of productivity hacks for my use.
+
+Last updated - August 17, 2025
 
 ## MCPs
 
